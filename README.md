@@ -1,4 +1,4 @@
-# Employee Turnover Prediction Project**
+# Employee Turnover Prediction Project
 
 ### Project Overview:
 

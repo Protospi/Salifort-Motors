@@ -1,6 +1,4 @@
-**Readme File - Employee Turnover Prediction Project**
-
-This readme file provides an overview of the Employee Turnover Prediction project, detailing each stage of the PACE (Plan, Analyze, Construct, and Execute) strategy, as well as highlighting key findings and recommendations.
+# Employee Turnover Prediction Project**
 
 ### Project Overview:
 
